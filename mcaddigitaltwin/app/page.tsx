@@ -1816,14 +1816,14 @@ export default function RoboticsLandingPage() {
                   <div className="shimmer-layer absolute inset-0 bg-gradient-to-r from-transparent via-white/15 to-transparent z-0"></div>
                   <span className="relative z-10">Join Training</span>
                 </Link>
-                <a
+                {/* <a
                   href="/Nosher-Receipt-ORDE5PJRCCC.pdf"
                   download
                   className="px-8 py-3.5 bg-white text-obsidian border border-border text-sm font-medium rounded shadow-sm hover:bg-gray-50 transition-all inline-block"
                   style={{ color: '#111111', borderColor: '#E5E5E5' }}
                 >
                   📄 Download Brochure
-                </a>
+                </a> */}
               </div>
             </div>
           </section>
